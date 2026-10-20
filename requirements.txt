@@ -1,0 +1,3 @@
+# Requiere Python 3.10 o superior.
+# No se necesitan paquetes externos.
+# Se utiliza solamente la biblioteca estándar de Python.
