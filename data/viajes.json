@@ -1,0 +1,380 @@
+[
+    {
+        "id_viaje": "V-001",
+        "inicio": "2026-10-01 08:00",
+        "fin": "2026-10-01 08:15",
+        "origen": " Estación A ",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-002",
+        "inicio": "2026-10-01 11:00",
+        "fin": "2026-10-01 11:16",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-003",
+        "inicio": "2026-10-01 14:00",
+        "fin": "2026-10-01 14:17",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-004",
+        "inicio": "2026-10-01 17:00",
+        "fin": "2026-10-01 17:18",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-005",
+        "inicio": "2026-10-01 20:00",
+        "fin": "2026-10-01 20:19",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-006",
+        "inicio": "2026-10-01 23:00",
+        "fin": "2026-10-01 23:20",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-007",
+        "inicio": "2026-10-02 02:00",
+        "fin": "2026-10-02 02:21",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-008",
+        "inicio": "2026-10-02 05:00",
+        "fin": "2026-10-02 05:22",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-009",
+        "inicio": "2026-10-02 08:00",
+        "fin": "2026-10-02 08:23",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-010",
+        "inicio": "2026-10-02 11:00",
+        "fin": "2026-10-02 11:24",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-011",
+        "inicio": "2026-10-02 14:00",
+        "fin": "2026-10-02 14:25",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-012",
+        "inicio": "2026-10-02 17:00",
+        "fin": "2026-10-02 17:26",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-013",
+        "inicio": "2026-10-02 20:00",
+        "fin": "2026-10-02 20:27",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-014",
+        "inicio": "2026-10-02 23:00",
+        "fin": "2026-10-02 23:28",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-015",
+        "inicio": "2026-10-03 02:00",
+        "fin": "2026-10-03 02:29",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-016",
+        "inicio": "2026-10-03 05:00",
+        "fin": "2026-10-03 05:30",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-017",
+        "inicio": "2026-10-03 08:00",
+        "fin": "2026-10-03 08:31",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-018",
+        "inicio": "2026-10-03 11:00",
+        "fin": "2026-10-03 11:32",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-019",
+        "inicio": "2026-10-03 14:00",
+        "fin": "2026-10-03 14:33",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-020",
+        "inicio": "2026-10-03 17:00",
+        "fin": "2026-10-03 17:34",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-021",
+        "inicio": "2026-10-03 20:00",
+        "fin": "2026-10-03 20:35",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-022",
+        "inicio": "2026-10-03 23:00",
+        "fin": "2026-10-03 23:36",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-023",
+        "inicio": "2026-10-04 02:00",
+        "fin": "2026-10-04 02:37",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-024",
+        "inicio": "2026-10-04 05:00",
+        "fin": "2026-10-04 05:38",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-025",
+        "inicio": "2026-10-04 08:00",
+        "fin": "2026-10-04 08:39",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-026",
+        "inicio": "2026-10-04 11:00",
+        "fin": "2026-10-04 11:40",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-027",
+        "inicio": "2026-10-04 14:00",
+        "fin": "2026-10-04 14:41",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-028",
+        "inicio": "2026-10-04 17:00",
+        "fin": "2026-10-04 17:42",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-029",
+        "inicio": "2026-10-04 20:00",
+        "fin": "2026-10-04 20:43",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-030",
+        "inicio": "2026-10-04 23:00",
+        "fin": "2026-10-04 23:44",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-031",
+        "inicio": "2026-10-05 02:00",
+        "fin": "2026-10-05 02:15",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-032",
+        "inicio": "2026-10-05 05:00",
+        "fin": "2026-10-05 05:16",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-033",
+        "inicio": "2026-10-05 08:00",
+        "fin": "2026-10-05 08:17",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-034",
+        "inicio": "2026-10-05 11:00",
+        "fin": "2026-10-05 11:18",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-035",
+        "inicio": "2026-10-05 14:00",
+        "fin": "2026-10-05 14:19",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-036",
+        "inicio": "2026-10-05 17:00",
+        "fin": "2026-10-05 17:20",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-037",
+        "inicio": "2026-10-05 20:00",
+        "fin": "2026-10-05 20:21",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-038",
+        "inicio": "2026-10-05 23:00",
+        "fin": "2026-10-05 23:22",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-039",
+        "inicio": "2026-10-06 02:00",
+        "fin": "2026-10-06 02:23",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-040",
+        "inicio": "2026-10-06 05:00",
+        "fin": "2026-10-06 05:24",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-041",
+        "inicio": "2026-10-06 08:00",
+        "fin": "2026-10-06 08:25",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-042",
+        "inicio": "2026-10-06 11:00",
+        "fin": "2026-10-06 11:26",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-043",
+        "inicio": "2026-10-06 14:00",
+        "fin": "2026-10-06 14:27",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-044",
+        "inicio": "2026-10-06 17:00",
+        "fin": "2026-10-06 17:28",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-045",
+        "inicio": "2026-10-06 20:00",
+        "fin": "2026-10-06 20:29",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-046",
+        "inicio": "2026-10-06 23:00",
+        "fin": "2026-10-06 23:30",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-047",
+        "inicio": "2026-10-07 02:00",
+        "fin": "2026-10-07 02:31",
+        "origen": "Estación C",
+        "destino": "Estación D"
+    },
+    {
+        "id_viaje": "V-048",
+        "inicio": "2026-10-07 05:00",
+        "fin": "2026-10-07 05:32",
+        "origen": "Estación D",
+        "destino": "Estación A"
+    },
+    {
+        "id_viaje": "V-049",
+        "inicio": "2026-10-07 08:00",
+        "fin": "2026-10-07 08:33",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-050",
+        "inicio": "2026-10-07 11:00",
+        "fin": "2026-10-07 11:34",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-001",
+        "inicio": "2026-10-01 08:00",
+        "fin": "2026-10-01 08:15",
+        "origen": " Estación A ",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-051",
+        "inicio": "2026-02-30 10:00",
+        "fin": "2026-03-01 10:30",
+        "origen": "Estación A",
+        "destino": "Estación B"
+    },
+    {
+        "id_viaje": "V-052",
+        "inicio": "2026-10-02 12:00",
+        "fin": "2026-10-02 11:00",
+        "origen": "Estación B",
+        "destino": "Estación C"
+    },
+    {
+        "id_viaje": "V-053",
+        "inicio": "2026-10-02 12:00",
+        "fin": "2026-10-02 12:30",
+        "origen": "Estación C",
+        "destino": ""
+    }
+]
